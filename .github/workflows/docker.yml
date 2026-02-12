@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            Jeandeivid/animal-farm-nodejs:latest
+            jeazaprom/animal-farm-nodejs:latest
             ghcr.io/Jeandeivid/animal-farm-nodejs:latest
