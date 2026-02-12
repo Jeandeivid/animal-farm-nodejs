@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             jeazaprom/animal-farm-nodejs:latest
-            ghcr.io/Jeandeivid/animal-farm-nodejs:latest
+            ghcr.io/jeandeivid/animal-farm-nodejs:latest
